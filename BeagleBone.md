@@ -1,0 +1,3 @@
+## BeagleBone ##
+### Features ###
+Announced in the end of October 2011, the BeagleBone is a barbone development board with a ARM Cortex-A8 processor running at 720MHz, 256MB of RAM, two 46-pin expansion connectors, on-chip Ethernet, a microSD slot, and a USB host port and multipurpose device port which includes low-level serial control and JTAG hardware debug connections, so no JTAG emulator is required.
